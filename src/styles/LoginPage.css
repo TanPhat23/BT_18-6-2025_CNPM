@@ -69,11 +69,12 @@
 
 .login-input {
   padding: 14px 18px;
-  border: 2px solid #e2e8f0;
+  border: 2px solid #da4e0d;
   border-radius: 12px;
   font-size: 1rem;
   transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
   background-color: #f7fafc;
+  color:black;
   width: 100%;
   box-sizing: border-box;
 }
